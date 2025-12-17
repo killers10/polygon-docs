@@ -5,3 +5,4 @@ mkdocs-multirepo-plugin==0.7.0
 mkdocs-redirects==1.2.1
 mkdocs-mermaid2-plugin==1.1.1
 mkdocs-swagger-ui-tag
+pymdown-extensions>=10.16.1 # not directly required, pinned by Snyk to avoid a vulnerability
